@@ -4,3 +4,7 @@ Items:
     Milk
     Candy
     Kinder Joy
+    Chips
+    Ice cream
+    Burger
+    Pizza
