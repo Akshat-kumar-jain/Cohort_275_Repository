@@ -8,3 +8,7 @@ Items:
     Ice cream
     Burger
     Pizza
+    Chocolate
+    Dosa
+    Idli
+    Sambhar
