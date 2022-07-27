@@ -1,6 +1,6 @@
 # Cohort_275_Repository
 <hr/>
-###This is my Project Description
+### This is my Project Description
 
 The Project includes features such as:
 
@@ -11,4 +11,4 @@ The Project includes features such as:
   - Feature 5
   
   
-@copy; Akjder Repo   
+@copy Akjder Repo   
